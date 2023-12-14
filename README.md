@@ -32,4 +32,4 @@ This repository contains a comprehensive sales analysis of a bike store using Po
   - Provide actionable insights for decision-making.
 
 
-[Detailed Project Report]([url_to_detailed_report](https://app.powerbi.com/view?r=eyJrIjoiZDZkMTVlZTgtMzUyNC00YzE1LWJhOGItZTYzOTU5NGQzZWI0IiwidCI6ImNjNzMwNWZmLTg5ZjMtNGJhYS05M2UxLTUwYTNhNDQ1MDQ3MSJ9)https://app.powerbi.com/viewr=eyJrIjoiZDZkMTVlZTgtMzUyNC00YzE1LWJhOGItZTYzOTU5NGQzZWI0IiwidCI6ImNjNzMwNWZmLTg5ZjMtNGJhYS05M2UxLTUwYTNhNDQ1MDQ3MSJ9)
+[Detailed Project Report](https://app.powerbi.com/view?r=eyJrIjoiZDZkMTVlZTgtMzUyNC00YzE1LWJhOGItZTYzOTU5NGQzZWI0IiwidCI6ImNjNzMwNWZmLTg5ZjMtNGJhYS05M2UxLTUwYTNhNDQ1MDQ3MSJ9)
